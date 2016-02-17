@@ -1,3 +1,0 @@
-<?teste
-echo phpinfo();
-?>
